@@ -1,0 +1,16 @@
+ID Articulo	Nombre	 Marca	Referencia	ID Proveedor	Stock
+1	cocacola	coca	1	1	1
+ID Articulo	Nombre	 Marca	Referencia	ID Proveedor	Stock
+2	fanta	coca cola	2	2	2
+2	fanta	pepsi	2	2	2
+1	Sprite	coca	1	1	1
+1	sprite	coca	1	1	1
+2	fanta	pepsi	2	2	2
+1			0	0	0
+1			0	0	0
+1	cocacola	coca	1	1	1
+1			0	0	0
+1	cocacola	coca	1	1	1
+0	cocacola	coca	1	1	1
+0			0	0	0
+1	cocacola	coca	1	1	1

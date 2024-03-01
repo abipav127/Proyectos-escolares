@@ -1,0 +1,2 @@
+ID Entrada	Valor Unidad	Fecha	Cantidad	ID Articulo	Factura
+1	45.3	febrero	4	5	6
